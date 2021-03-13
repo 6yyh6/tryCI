@@ -1,4 +1,4 @@
-package mytry.com.oocourse.spec1.main;
+package mytry.com.oocourse.spec1.main; 
 
 import java.math.BigInteger;
 import java.util.ArrayList;
